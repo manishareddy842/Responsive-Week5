@@ -1,9 +1,9 @@
-h2{
+.some h2{
 font:Poppins;
 font-size: 36px;
 font-style: Bold;
 }
-h1{
+ .some h1{
 font: "Playfair Display";
 font-size: 96px;
 font-style: Bold;
@@ -13,7 +13,7 @@ text-align: center;
 background-color: #F9F7FE;
 padding: 160px;
 }
-p{
+.some p{
 font: Poppins;
 font-size: 24px;
 font-style: Regular;
