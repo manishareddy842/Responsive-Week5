@@ -5,10 +5,10 @@ nav ul{
 }
 nav ul li{
     margin: 20px 20px;
-    color: #000000;
+    
 }
  nav ul a{
-    
+    color: #000000;
     text-decoration: none;
 }
 .logo{
@@ -16,7 +16,7 @@ width: 150px;
 height: 41.82px ;
 
 }
-ul li .active{
+ul li .active a{
     color:blue;
 }
 .contact-Box{
