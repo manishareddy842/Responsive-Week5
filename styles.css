@@ -1,3 +1,7 @@
+ul{
+    list-style: none;
+    display: inline;
+}
 .some h2{
 font:Poppins;
 font-size: 36px;
