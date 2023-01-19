@@ -1,5 +1,7 @@
 ul{
     list-style: none;
+}
+ul a{
     display: inline;
     text-decoration: none;
 }
