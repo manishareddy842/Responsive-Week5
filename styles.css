@@ -59,6 +59,7 @@ footer .social-links{
     padding:10px ;
     background-color:#F9F7FE ;
     color: rgba(108, 99, 255, 1);
+    text-align: center;
      
 }
 @media screen (max-width:900px){
