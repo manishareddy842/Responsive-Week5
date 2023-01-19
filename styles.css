@@ -13,6 +13,19 @@ nav ul li{
 .logo{
 width: 150px;
 height: 41.82px ;
+
+}
+.contact-Box{
+ background-color:#F9F7FE;
+ padding: 40px 20px;
+}
+.contact-Box h4{
+    font: Playfair Display;
+    color:#000000;
+}
+.contact-Box p{
+    font: Poppins;
+    color:#272142 ;
 }
 .some h2{
 font:Poppins;
