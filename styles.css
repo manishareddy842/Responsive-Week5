@@ -17,7 +17,7 @@ height: 41.82px ;
 }
 .contact-Box{
  background-color:#F9F7FE;
- padding: 20px;
+ 
  border-radius: 10px;
 }
 .contact-Box h4{
@@ -27,6 +27,7 @@ height: 41.82px ;
 .contact-Box p{
     font: Poppins;
     color:#272142 ;
+    margin-bottom: 0px;
 }
 .some h2{
 font:Poppins;
