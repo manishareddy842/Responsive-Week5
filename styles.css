@@ -1,6 +1,6 @@
 nav ul{
     list-style: none;
-    display: inline-flex;
+    display: inline;
 }
  nav ul a{
     
@@ -8,7 +8,7 @@ nav ul{
 }
 .logo{
 width: 150px;
-height: 41.82px;
+height: 41.82px ;
 }
 .some h2{
 font:Poppins;
