@@ -5,6 +5,7 @@ nav ul{
 }
 nav ul li{
     margin: 20px 20px;
+    color: #000000;
 }
  nav ul a{
     
@@ -14,6 +15,9 @@ nav ul li{
 width: 150px;
 height: 41.82px ;
 
+}
+ul li .active{
+    color:blue;
 }
 .contact-Box{
  background-color:#F9F7FE;
