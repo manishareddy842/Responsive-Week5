@@ -48,6 +48,7 @@ footer .email{
     font-size: 24px;
     line-height: 36px;
     text-align: center;
+    color: rgba(0, 0, 0, 1);
    
 }
 .email a:hover{
