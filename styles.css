@@ -53,6 +53,14 @@ footer .email{
 .email a:hover{
     color:blue;
 }
+footer .social-links{
+    font-size: 18px;
+    margin: 0px 20px;
+    padding:10px ;
+    background-color:#F9F7FE ;
+    color: rgba(108, 99, 255, 1);
+     
+}
 @media screen (max-width:900px){
 
 }
