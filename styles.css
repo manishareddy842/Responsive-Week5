@@ -66,9 +66,8 @@ footer .socail-Links a{
     padding: 40px;
     border-radius: 50px;
 }
-.fb .insta .twitter{
-   
-    background-color: #F9F7FE;
+footer .socail-Links{
+text-align: center;
 }
 @media screen (max-width:900px){
 
