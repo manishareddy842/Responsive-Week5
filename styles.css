@@ -109,7 +109,7 @@ text-align: center;
 }
 @media (max-width: 900px){
 .some{
-    padding: 40px;
+    padding: 80px 20px;
 }
 
 }
