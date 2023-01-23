@@ -109,7 +109,7 @@ text-align: center;
 }
 @media screen (max-width:900px){
     .some h1{
-        font: size 24px;
+        font-size :20px;
     }
 
 }
