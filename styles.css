@@ -109,7 +109,7 @@ text-align: center;
 }
 @media (max-width:375px){
     .some h1{
-        font-size: 20px;
+        font-size: 10px;
     }
 .some{
     padding: 50px;
