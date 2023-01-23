@@ -107,7 +107,7 @@ footer .socail-Links{
 text-align: center;
 
 }
-@media (max-width:375px){
+@media (max-width>=375px){
     .some h1{
         font-size: 10px;
     }
