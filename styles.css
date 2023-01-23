@@ -113,7 +113,7 @@ text-align: center;
     }
 .some{
     padding: 20px;
-    display: block;
+    display: flex;
     text-align: center;
 }
 
