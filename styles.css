@@ -110,7 +110,7 @@ text-align: center;
 @media  (max-width:400px){
    
          .some{
-            paddding: 80px 20px;
+            paddding: 40px;
          }
 
 }
