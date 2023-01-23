@@ -107,7 +107,7 @@ footer .socail-Links{
 text-align: center;
 
 }
-@media (max-width: 600px){
+@media (max-width:375px){
 .some{
     padding: 80px 20px;
 }
