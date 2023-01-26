@@ -158,7 +158,7 @@ line-height: 30px;
 .space{
 padding: 0px 40px;
 }
-.conatctSection h4{
+.conatctSection h1{
 padding: 60px 50px;
 text-align: left;
 font:Playfair Display ;
@@ -166,4 +166,7 @@ font-size: 64px;
 line-height: 85.31px;
 font-style: Bold;
 
+}
+.class{
+    padding:24px  45px;
 }
